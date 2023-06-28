@@ -1,1 +1,1 @@
-# LawCNAI-Support
+# 法律 GPT
